@@ -2,7 +2,178 @@
 	"cron": "0 */4 * * *",
 	"urls": [
 		{
-			"url": "https://www.google.co.uk",
+			"url": "https://www.zoover.nl",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.zoover.nl/italie",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.zoover.nl/italie/toscane",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.zoover.nl/italie/toscane/florence",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.zoover.nl/hotels/florence/toscane?filter_hash=NC1zdGVycmVuL2phY3V6emkva2luZGVyb3B2YW5nL2xpZnQvdHYvd2FhcmRlcmluZy04L3dpZmk%3D",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.zoover.nl/italie/veneto/cavallino-treporti/village-marina-di-venezia-glamping/camping",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.zoover.nl/turkije/vakantie",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.tui.nl/",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.tui.nl/vakantie/italie/resultaten/?clearmodel=1",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.tui.nl/autovakantie/italie/toscane/resultaten/?_smstate=1",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.tui.nl/vakantie/italie/toscane/florence/resultaten/",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.tui.nl/croce-di-malta-509627304/",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.tui.nl/p/vakantie/italie/",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.vakantiediscounter.nl/",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.vakantiediscounter.nl/zoekresultaten?resultsperpage=18&trip_duration_range=6-10&countrycode=IT&flexibility=2&sort=popularity%20desc&region=&transporttype=VL&layout=list&room=2_0_0&page=1&live=true&facets=nodate#",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.vakantiediscounter.nl/zoekresultaten?resultsperpage=18&city=&trip_duration_range=6-10&countrycode=IT&flexibility=2&sort=popularity%20desc&region=toscane&transporttype=VL&layout=list&room=2_0_0&page=1&live=true&facets=nodate#",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.vakantiediscounter.nl/zoekresultaten?resultsperpage=18&city=florence&trip_duration_range=6-10&countrycode=IT&flexibility=2&sort=popularity%20desc&region=toscane&transporttype=VL&layout=list&room=2_0_0&live=true&facets=nodate",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.zoover.nl/hotels/florence/toscane?filter_hash=NC1zdGVycmVuL2phY3V6emkva2luZGVyb3B2YW5nL2xpZnQvdHYvd2FhcmRlcmluZy04L3dpZmk%3D",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.vakantiediscounter.nl/italie/sicilie/mazara_del_vallo/hopps_hotel?resultsperpage=18&trip_duration_range=6-10&countrycode=IT&flexibility=2&region=&transporttype=VL&layout=list&accoid=a4a46fbb-f1e3-4cc0-82ef-ca41b312bf42&originaldate=null&room=2_0_0&departuredate=2019-04-18&live=true&facets=nodate&searchResultUrl=https%3A%2F%2Fwww.vakantiediscounter.nl%2Fzoekresultaten%3Ftrip_duration_range%3D6-10%26countrycode%3DIT%26flexibility%3D2%26sort%3Dpopularity%2520desc%26transporttype%3DVL%26layout%3Dlist%26room%3D2_0_0%26page%3D1%26live%3Dtrue%26facets%3Dnodate",
+			"plugins": [
+				{
+					"name": "lighthouse",
+					"report": true
+				}
+			]
+		},
+		{
+			"url": "https://www.vakantiediscounter.nl/italie",
 			"plugins": [
 				{
 					"name": "lighthouse",
